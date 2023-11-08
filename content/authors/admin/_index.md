@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 方東杰
+title: Dong-Jie Fang
 
 # Name pronunciation (optional)
-name_pronunciation: Dong-Jie Fang
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Dong-Jie
@@ -31,8 +31,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Green Finance
   - Natural Language Processing in Finance
-  - Asset Pricing
   - Financial Engineering
+  - Asset Pricing  
 
 # Education to show in About widget
 education:
@@ -67,25 +67,7 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
