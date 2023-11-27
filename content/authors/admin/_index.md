@@ -29,8 +29,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Green Finance
-  - Natural Language Processing in Finance
+  - Sustainable Finance
+  - Financial Information Disclosure
   - Financial Engineering
   - Asset Pricing  
 
